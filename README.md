@@ -69,3 +69,23 @@ curl \
 --data '{ "query": "{ users { id, nombre_usuario, rol } }" }' \
 http://localhost/graphql
 ```
+
+```json
+{
+    "data": {
+        "users": [
+            {
+                "id": 1,
+                "nombre_usuario": "admin",
+                "rol": "admin"
+            },
+            {
+                "id": 2,
+                "nombre_usuario": "user1",
+                "rol": "user"
+            }
+        ]
+    }
+}
+```
+
