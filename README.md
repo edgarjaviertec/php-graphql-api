@@ -30,6 +30,8 @@ composer install
 * table_structure.sql
 * table_content.sql
 
+### 5.- Crear y configurar el archivo .env usando como ejemplo el archivo .env.sample
+
 ## Uso
 
 ### 1.- Obtener token
