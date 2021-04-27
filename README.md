@@ -6,8 +6,8 @@ API GraphQL en PHP protegida con JWT.
 
 * MAMP, WAMP o LAMP
 * phpMyAdmin
-* Altair GraphQL Client
-* Postman
+* cURL o Postman
+* cURL o Altair GraphQL Client
 
 ## Instalación
 
