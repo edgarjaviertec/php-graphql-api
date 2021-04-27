@@ -20,7 +20,7 @@ git clone https://github.com/edgarjaviertec/php-graphql-api.git
 ### 2.- Instalar las dependencias
 
 ```bash
-composer install install
+composer install
 ```
 
 ### 3.- Ejecutar el proyecto en MAMP, WAMP o LAMP
